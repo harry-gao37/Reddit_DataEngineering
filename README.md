@@ -28,6 +28,7 @@ The pipeline is designed to:
 5. **AWS Glue**: Data cataloging and ETL jobs.
 6. **Amazon Athena**: SQL-based data transformation.
 7. **Amazon Redshift**: Data warehousing and analytics.
+8. **Terraform**: Deploying Amazon infrastructure.
 
 ## Prerequisites
 - AWS Account with appropriate permissions for S3, Glue, Athena, and Redshift.
@@ -38,7 +39,7 @@ The pipeline is designed to:
 ## System Setup
 1. Clone the repository.
    ```bash
-    git clone https://github.com/airscholar/RedditDataEngineering.git
+     git clone https://github.com/harry-gao37/Reddit_DataEngineering.git
    ```
 2. Create a virtual environment.
    ```bash
